@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./hye.png" width = "100%" >
+<img src="./header.png" width = "100%" >
 https://www.canva.com/design/DAFo5cxEL_U/xYA2FE3OlK2Oxoux-aakHw/edit?category=tACFapY0WQc
   <h1>Hi there 👋, I’m Fatima</h1>
   <h3>A software developer.<h3>
