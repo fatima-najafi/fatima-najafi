@@ -1,9 +1,6 @@
 
 <div align="center">
-<img src="./header.png" width = "100%" >
-https://www.canva.com/design/DAFo5cxEL_U/xYA2FE3OlK2Oxoux-aakHw/edit?category=tACFapY0WQc
-  <h1>Hi there 👋, I’m Fatima</h1>
-  <h3>A software developer.<h3>
+<img src="./github.png" width = "100%" >
   <h5>Looking for my new role.<h5>
    
 <p>I'm a highly motivated software developer with a passion for building impactful applications. And now enrolled in <a href="https://www.microverse.org/">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.<p>
