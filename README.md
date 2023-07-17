@@ -4,7 +4,8 @@
 
   <h5>Looking for my new role.<h5>
    
-<p>I'm a highly motivated software developer with a passion for building impactful applications. And now I'm enrolled in <a href="https://www.microverse.org/"></a>Microverse is a top-tier remote software development school that emphasizes real-world projects and pair programming.<p>
+<p>I'm a highly motivated software developer with a passion for building impactful applications. And now I'm enrolled in 
+  <a href="https://www.microverse.org/"></a>Microverse is a top-tier remote software development school that emphasizes real-world projects and pair programming.<p>
     
 </div>
 
