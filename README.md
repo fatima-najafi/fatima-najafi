@@ -1,7 +1,6 @@
-<img src="./header.png" width = "100%" >
+
 <div align="center">
-
-
+<img src="./header.png" width = "100%" >
   <h1>Hi there 👋, I’m Fatima</h1>
   <h3>A software developer.<h3>
   <h5>Looking for my new role.<h5>
