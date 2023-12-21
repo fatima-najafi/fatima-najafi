@@ -12,9 +12,7 @@
   🎓 Bachelor's degree in Computer Science.<br>
   🏆 Certified Full-stack Developer.<br>
   💯 Dream, Believe & Achieve<br>
-⚙️ My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL | RSpec |<br>
-
-
+⚙️ My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL |PostgreSQL| RSpec |<br>
 
 
 ## 🌐 Socials:
